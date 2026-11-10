@@ -1,0 +1,181 @@
+List Building For True Success#_1_#Discover how to build a powerful email list that drives long-term online success. List Building For True Success reveals proven strategies for attracting subscribers, creating high-converting lead magnets, increasing engagement, and turning your email list into a profitable business asset. Perfect for beginners, marketers, and business owners looking to grow their audience and increase sales through smart email marketing techniques.#_1_#list building, email marketing, lead generation, email subscribers, online marketing, squeeze pages, lead magnets, email automation, digital marketing, passive income#_1_#<style>
+  #cookie-consent-banner {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #222;
+    color: white;
+    padding: 16px;
+    z-index: 9999;
+    font-size: 16px;
+    text-align: center;
+  }
+
+  #cookie-consent-banner-content {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+  }
+
+  #cookie-consent-banner a {
+    font-size: 16px;
+    color: #ccc;
+    text-decoration: underline;
+  }
+
+  #cookie-consent-banner button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #4fc3f7;
+    color: black;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+
+  @media (min-width: 600px) {
+    #cookie-consent-banner-content {
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+</style>
+
+<div id="cookie-consent-banner">
+  <div id="cookie-consent-banner-content">
+    <span>
+      This website uses cookies to ensure you get the best experience.
+      <a href="./privacy" target="_blank">Learn more</a>.
+    </span>
+    <button onclick="acceptCookies()">Accept</button>
+  </div>
+</div>
+
+<script>
+  const consentRequiredCountries = [
+    "AT", "BE", "BG", "HR", "CY", "CZ", "DK", "EE", "FI", "FR", "DE",
+    "GR", "HU", "IS", "IE", "IT", "LV", "LI", "LT", "LU", "MT", "NL",
+    "NO", "PL", "PT", "RO", "SK", "SI", "ES", "SE", "CH", "GB",
+    "CA", "US"
+  ];
+
+  function getCountryAndCheckConsent() {
+    if (localStorage.getItem("cookieConsent")) return;
+
+    fetch('https://ipapi.co/json/')
+      .then(response => response.json())
+      .then(data => {
+        const countryCode = data.country;
+        if (consentRequiredCountries.includes(countryCode)) {
+          document.getElementById('cookie-consent-banner').style.display = 'block';
+        }
+      })
+      .catch(error => {
+        console.warn("Geo lookup failed:", error);
+      });
+  }
+
+  function acceptCookies() {
+    localStorage.setItem("cookieConsent", "true");
+    document.getElementById('cookie-consent-banner').style.display = 'none';
+  }
+
+  window.onload = getCountryAndCheckConsent;
+</script>
+#_1_##_1_##_1_#body a:link,
+body a:visited,
+body a:active {
+    color: #0d47a1;
+    font-size: 12px;
+}
+#button-home {
+border-color: #d6d6d6;
+border-width: 2px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+background: #f5f5f5;
+text-align: center;
+text-decoration: none;
+border-style: solid;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #2f2f2f;
+cursor: pointer;
+font-weight: bold;
+}
+#button-home:hover {
+background-color:#d6d6d6;
+}
+.buy {
+border:solid; 
+border-width: 2px;
+border-color: #ECD213;
+background-color: #FDFBDD;
+padding: 20px; 
+margin: auto; 
+max-width: 500px;
+}
+.buy-table {
+background-color: #FDFBDD;
+border: 2px solid #ECD213;
+}
+.footer p {
+margin: 0px;
+padding: 0px;
+}
+.guarantee {
+background: linear-gradient(to bottom,#f7f7f7 0,#d9d9d9 100%);
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+border: 1px solid #c4c4c4;
+line-height: 22px;
+text-shadow: #fff 0 1px 1px;
+}
+.powered,
+.powered a:link,
+.powered a:visited,
+.powered a:active {
+color:#EEEEEE;
+font-size: 12px;
+margin-top: 3px;
+}
+.powered a:hover {
+    color:#EEEEEE;
+}
+.privacy-terms,
+.privacy-terms a:link,
+.privacy-terms a:visited,
+.privacy-terms a:active {
+color:#EEEEEE;
+font-size: 14px;
+margin-top: 3px;
+}
+.privacy-terms a:hover {
+    color:#EEEEEE;
+}
+.read_more,
+.read_more a:link,
+.read_more a:visited,
+.read_more a:active {
+color:#0d47a1 !Important;
+font-size: 12px;
+}
+.read_more a:hover {
+    color:#255db3 !Important;
+}
+.vid p {
+float: left;
+margin-right: 20px;
+margin-top: 20px;
+margin-bottom: 0px;
+}
+
+#_1_#0

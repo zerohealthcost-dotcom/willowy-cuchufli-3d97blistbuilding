@@ -1,0 +1,11 @@
+rightside#_1_#25#_1_#F5F5F5#_1_#D6D6D6#_1_#2#_1_#25#_1_#F5F5F5#_1_#D6D6D6#_1_#2#_1_#<p>Your&nbsp;sidebar content here, this can be anything you like, any links to additional offers, additional websites, affiliate links, affiliate adverts, banners, optin forms... Basically, anything you choose!</p>
+#_1_#<p>Be sure to sign up for our Free Downloads and check out al the High Quality Products on this page.</p>
+#_1_##_1_##_1_#Left Sidebar Title#_1_#Freebies & Top Products#_1_#<p style="text-align: center;"><span style="line-height:1.2"><span style="font-size:26px"><strong><span style="color:#cc0000"><span style="font-family:Arial,Helvetica,sans-serif">FREE DOWNLOAD! </span></span></strong></span></span></p>
+
+<p style="text-align: center;"><span style="line-height:1.2"><span style="font-size:20px">Would You Like to Know All There is to Know About This Awesome Product?</span></span></p>
+#_1_#<p><img alt="" src="images/ecover.png" style="height:287px; width:300px" /></p>
+#_1_#<p style="text-align: center;">&nbsp;</p>
+
+<p style="text-align: center;"><span style="font-size:20px"><span style="color:#444444">Enter Your Name and Email Below to Get Access to Your FREE Download!</span></span></p>
+#_1_#<p style="text-align: center;"><span style="color:#444444"><span style="font-size:10px">Your privacy is safe. We will never pass your email address to a 3rd party and you may opt-out at any time.</span></span></p>
+#_1_#topside#_1_#000000#_1_#FFFFFF#_1_#2

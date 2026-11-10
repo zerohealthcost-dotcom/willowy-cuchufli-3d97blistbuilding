@@ -1,0 +1,14 @@
+admin
+content_pages
+files
+images
+includes
+recommended
+uploads
+.htaccess
+content.php
+index.php
+privacy.php
+show.php
+showpage.php
+terms.php

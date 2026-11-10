@@ -1,0 +1,64 @@
+Thanks!#_1_##_1_##_1_##_1_#1#_1_##_1_#a:link {
+color: #f16d6e;
+}
+a:visited {
+color: #f16d6e;
+}
+a:hover {
+color: #f16d6e;
+}
+a:active {
+color: #f16d6e;
+}
+.a {
+color: #f16d6e;
+}
+#button-link {
+width: 80%;
+padding: 10px 0px;
+border-color: #055804;
+border-width: 0px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+background: #309c61;
+text-align: center;
+text-decoration: none;
+position: relative !important;
+display: inline-block !important;
+border-style: solid;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 36px;
+color: #FFF;
+cursor: pointer;
+font-weight: bold;
+}
+#button-link:hover {
+background-color:#3cba75;
+}
+.footer p {
+margin: 0px;
+padding: 0px;
+}
+.powered,
+.powered a:link,
+.powered a:visited,
+.powered a:active {
+color:#EEEEEE;
+font-size: 12px;
+margin-top: 3px;
+}
+.powered a:hover {
+    color:#EEEEEE;
+}
+.privacy-terms,
+.privacy-terms a:link,
+.privacy-terms a:visited,
+.privacy-terms a:active {
+color:#EEEEEE;
+font-size: 14px;
+margin-top: 3px;
+}
+.privacy-terms a:hover {
+color:#EEEEEE;
+}#_1_#0

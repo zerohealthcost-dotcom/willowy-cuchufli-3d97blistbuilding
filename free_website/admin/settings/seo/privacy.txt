@@ -1,0 +1,41 @@
+Privacy Policy#_1_##_1_##_1_##_1_##_1_##_1_#a:link {
+color: #f16d6e;
+}
+a:visited {
+color: #f16d6e;
+}
+a:hover {
+color: #f16d6e;
+}
+a:active {
+color: #f16d6e;
+}
+.a {
+color: #f16d6e;
+}
+.footer p {
+margin: 0px;
+padding: 0px;
+}
+.powered,
+.powered a:link,
+.powered a:visited,
+.powered a:active {
+color:#EEEEEE;
+font-size: 12px;
+margin-top: 3px;
+}
+.powered a:hover {
+    color:#EEEEEE;
+}
+.privacy-terms,
+.privacy-terms a:link,
+.privacy-terms a:visited,
+.privacy-terms a:active {
+color:#EEEEEE;
+font-size: 14px;
+margin-top: 3px;
+}
+.privacy-terms a:hover {
+color:#EEEEEE;
+}#_1_#0
